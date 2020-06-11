@@ -4,7 +4,7 @@ body{
 }
 
 .table {
-    color: darkblue;
+    color: white;
 }
 
 .tables_data{
@@ -21,7 +21,3 @@ body{
 .card-body{
     background-image: url("./images/tab-image-2.jpg");
 };
-
-span{
-    color: white;
-}
