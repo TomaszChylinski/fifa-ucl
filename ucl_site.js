@@ -2,7 +2,7 @@
 
 
 const section_1 = [];
-const section_2 = ['Lazio','Athletico Madrid','Borussia Dortmund','Napoli'];
+const section_2 = ['Lazio','Napoli'];
 const section_3 = ['Sevilla','Bayern Leverkuse','Real Sociedad','Hertha Berlin','Ajax','Lille','Roma','Atlanta'];
 const section_4 = ['AC Milan', 'Marseille','Valencia FC','Getafe','Porto','Red Bull Salzburg','Lyon','Monaco'];
 
