@@ -4,7 +4,7 @@
 const section_1 = [];
 const section_2 = [];
 const section_3 = [];
-const section_4 = ['AC Milan', 'Marseille','Valencia FC','Getafe','Porto','Red Bull Salzburg','Lyon','Monaco'];
+const section_4 = ['Marseille','Porto'];
 
 
 let groupA = [];
@@ -12,8 +12,8 @@ let groupB = [];
 let groupC = [];
 let groupD = [];
 
-currentTeamC = section_3[Math.floor(Math.random() * section_3.length)];
-console.log(currentTeamC, ' team')
+currentTeamD = section_4[Math.floor(Math.random() * section_4.length)];
+console.log(currentTeamD, ' team')
 
 
 //currentTeamA = section_1[Math.floor(Math.random() * section_1.length)];
