@@ -1,0 +1,19 @@
+body{
+    background-image: url("./images/background.jpg");
+    color: white;
+}
+
+.table {
+    color: darkblue;
+}
+
+.tables_data{
+    margin-top: 5%;
+    margin-bottom:5%;
+}
+
+.logo{
+    min-width: 40px;
+    width: 40px;
+    height: 40px;
+}
