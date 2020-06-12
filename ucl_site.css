@@ -19,7 +19,7 @@ body{
 }
 
 .card-body{
-    background-image: url("./images/tab-image-2.jpg");
+    background-image: url("./images/tab-image-2.JPG");
 };
 
 .h1{
@@ -34,3 +34,4 @@ a:hover {
     font-style: bold;
     color: #0056b3;
     text-decoration: underline;
+}
