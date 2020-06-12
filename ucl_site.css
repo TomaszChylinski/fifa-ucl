@@ -21,3 +21,16 @@ body{
 .card-body{
     background-image: url("./images/tab-image-2.jpg");
 };
+
+.h1{
+    color:white
+}
+
+a{
+    color: white !important;
+
+}
+a:hover {
+    font-style: bold;
+    color: #0056b3;
+    text-decoration: underline;
