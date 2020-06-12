@@ -35,3 +35,10 @@ a:hover {
     color: #0056b3;
     text-decoration: underline;
 }
+
+ @media only screen and (max-width: 360px) {
+    .card-body{
+        background-image: url("./images/tab-image.jpg");
+    };
+    
+  }
