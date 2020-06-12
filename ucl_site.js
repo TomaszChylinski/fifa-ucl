@@ -1,10 +1,14 @@
 
 
 
-const section_1 = [];
-const section_2 = [];
-const section_3 = [];
-const section_4 = ['Marseille','Porto'];
+const section_a = ['Paris Saint Germain','Manchester United','Bayer 04 Leverkusen','Lyon'];
+const section_b= ['Liepzig','spurs','berlin','salzburg'];
+const section_c = ['barca','arsenal','lille','getfae'];
+const section_d = ['liverpool','inter','atlanta','monaco'];
+const section_e = ['real','bvb','sociedad','valencia'];
+const section_f = ['munich','athleti','ajax','milan'];
+const section_g = ['juve','napoli','sevilla','marsielle'];
+const section_h = ['city','lazio','roma','porto'];
 
 
 let groupA = [];
@@ -12,7 +16,7 @@ let groupB = [];
 let groupC = [];
 let groupD = [];
 
-currentTeamD = section_4[Math.floor(Math.random() * section_4.length)];
+currentTeamD = section_h[Math.floor(Math.random() * section_h.length)];
 console.log(currentTeamD, ' team')
 
 
